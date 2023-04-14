@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PresentationSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" PresentationCreationUtc="2021-01-14T10:45:12.2940794Z" TotalRecordingTime="310.1867938" SettingsModelVersion="0.1">
+  <Slides>
+    <SlideInfo SlideNumber="0" SlideStartTime="0">
+      <SlideType>SubTitle</SlideType>
+      <ListRenderingMode>Auto</ListRenderingMode>
+      <LineAppearing>
+        <LineAppearingInfo LineNumber="0" AppearingTime="0" />
+        <LineAppearingInfo LineNumber="3" AppearingTime="0" />
+        <LineAppearingInfo LineNumber="1" AppearingTime="16.6912759" />
+      </LineAppearing>
+      <SlideTheme>
+        <BackgroundColor xsi:nil="true" />
+        <Heading>
+          <Font FontFamily="Chaparral Pro" Size="54" />
+          <BlockFontColor xsi:nil="true" />
+          <Margin xsi:nil="true" />
+          <LayoutSettings xsi:nil="true" />
+        </Heading>
+        <Text>
+          <Font xsi:nil="true" />
+          <BlockFontColor R="255" G="255" B="255" A="254" />
+          <Margin xsi:nil="true" />
+          <LayoutSettings xsi:nil="true" />
+        </Text>
+      </SlideTheme>
+    </SlideInfo>
+    <SlideInfo SlideNumber="1" SlideStartTime="27.5308632">
+      <SlideType>Normal</SlideType>
+      <ListRenderingMode>Auto</ListRenderingMode>
+      <LineAppearing>
+        <LineAppearingInfo LineNumber="5" AppearingTime="0" />
+        <LineAppearingInfo LineNumber="17" AppearingTime="0" />
+        <LineAppearingInfo LineNumber="7" AppearingTime="32.090883" />
+        <LineAppearingInfo LineNumber="8" AppearingTime="37.3624741" />
+        <LineAppearingInfo LineNumber="9" AppearingTime="40.4424748" />
+        <LineAppearingInfo LineNumber="10" AppearingTime="48.0584031" />
+        <LineAppearingInfo LineNumber="11" AppearingTime="74.7464529" />
+        <LineAppearingInfo LineNumber="12" AppearingTime="88.5385479" />
+        <LineAppearingInfo LineNumber="13" AppearingTime="101.6828001" />
+        <LineAppearingInfo LineNumber="14" AppearingTime="112.05078379999999" />
+        <LineAppearingInfo LineNumber="15" AppearingTime="118.29103959999999" />
+      </LineAppearing>
+      <SlideTheme>
+        <BackgroundColor xsi:nil="true" />
+        <List>
+          <Font xsi:nil="true" />
+          <BlockFontColor R="85" G="85" B="74" A="21" />
+          <Margin xsi:nil="true" />
+          <LayoutSettings xsi:nil="true" />
+          <BulletedListSymbolFont xsi:nil="true" />
+          <BulletedListSymbolColor xsi:nil="true" />
+        </List>
+        <SubList>
+          <Font xsi:nil="true" />
+          <BlockFontColor R="85" G="85" B="74" A="254" />
+          <Margin xsi:nil="true" />
+          <LayoutSettings xsi:nil="true" />
+          <BulletedListSymbolFont xsi:nil="true" />
+          <BulletedListSymbolColor xsi:nil="true" />
+        </SubList>
+      </SlideTheme>
+    </SlideInfo>
+    <SlideInfo SlideNumber="2" SlideStartTime="122.25844939999999">
+      <SlideType>Normal</SlideType>
+      <ListRenderingMode>Auto</ListRenderingMode>
+      <LineAppearing>
+        <LineAppearingInfo LineNumber="19" AppearingTime="0" />
+        <LineAppearingInfo LineNumber="33" AppearingTime="0" />
+        <LineAppearingInfo LineNumber="21" AppearingTime="127.8587908" />
+        <LineAppearingInfo LineNumber="23" AppearingTime="145.0424669" />
+        <LineAppearingInfo LineNumber="24" AppearingTime="155.05080519999999" />
+        <LineAppearingInfo LineNumber="25" AppearingTime="167.26686089999998" />
+        <LineAppearingInfo LineNumber="27" AppearingTime="174.930795" />
+        <LineAppearingInfo LineNumber="29" AppearingTime="183.30724049999998" />
+        <LineAppearingInfo LineNumber="30" AppearingTime="185.8191802" />
+        <LineAppearingInfo LineNumber="31" AppearingTime="200.74680139999998" />
+      </LineAppearing>
+      <SlideTheme>
+        <BackgroundColor xsi:nil="true" />
+        <Text>
+          <Font xsi:nil="true" />
+          <BlockFontColor R="85" G="85" B="74" A="109" />
+          <Margin xsi:nil="true" />
+          <LayoutSettings xsi:nil="true" />
+        </Text>
+      </SlideTheme>
+    </SlideInfo>
+    <SlideInfo SlideNumber="3" SlideStartTime="221.2433527">
+      <SlideType>Normal</SlideType>
+      <ListRenderingMode>OneColumn</ListRenderingMode>
+      <LineAppearing>
+        <LineAppearingInfo LineNumber="35" AppearingTime="0" />
+        <LineAppearingInfo LineNumber="37" AppearingTime="226.77844159999998" />
+        <LineAppearingInfo LineNumber="39" AppearingTime="229.07505669999998" />
+        <LineAppearingInfo LineNumber="40" AppearingTime="255.8034936" />
+        <LineAppearingInfo LineNumber="41" AppearingTime="263.5471469" />
+        <LineAppearingInfo LineNumber="42" AppearingTime="277.9153114" />
+        <LineAppearingInfo LineNumber="43" AppearingTime="295.9393029" />
+        <LineAppearingInfo LineNumber="44" AppearingTime="300.666783" />
+      </LineAppearing>
+      <SlideTheme>
+        <BackgroundColor xsi:nil="true" />
+        <Text>
+          <Font xsi:nil="true" />
+          <BlockFontColor R="85" G="85" B="74" A="50" />
+          <Margin xsi:nil="true" />
+          <LayoutSettings xsi:nil="true" />
+        </Text>
+      </SlideTheme>
+    </SlideInfo>
+  </Slides>
+</PresentationSettings>

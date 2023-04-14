@@ -1,0 +1,16 @@
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Behavioral\Visitor\NullVisitable\bin\Debug\net5.0\NullVisitable.exe
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Behavioral\Visitor\NullVisitable\bin\Debug\net5.0\NullVisitable.deps.json
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Behavioral\Visitor\NullVisitable\bin\Debug\net5.0\NullVisitable.runtimeconfig.json
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Behavioral\Visitor\NullVisitable\bin\Debug\net5.0\NullVisitable.runtimeconfig.dev.json
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Behavioral\Visitor\NullVisitable\bin\Debug\net5.0\NullVisitable.dll
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Behavioral\Visitor\NullVisitable\bin\Debug\net5.0\NullVisitable.pdb
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Behavioral\Visitor\NullVisitable\obj\Debug\net5.0\NullVisitable.csproj.AssemblyReference.cache
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Behavioral\Visitor\NullVisitable\obj\Debug\net5.0\NullVisitable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Behavioral\Visitor\NullVisitable\obj\Debug\net5.0\NullVisitable.AssemblyInfoInputs.cache
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Behavioral\Visitor\NullVisitable\obj\Debug\net5.0\NullVisitable.AssemblyInfo.cs
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Behavioral\Visitor\NullVisitable\obj\Debug\net5.0\NullVisitable.csproj.CoreCompileInputs.cache
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Behavioral\Visitor\NullVisitable\obj\Debug\net5.0\NullVisitable.dll
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Behavioral\Visitor\NullVisitable\obj\Debug\net5.0\ref\NullVisitable.dll
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Behavioral\Visitor\NullVisitable\obj\Debug\net5.0\NullVisitable.pdb
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Behavioral\Visitor\NullVisitable\obj\Debug\net5.0\NullVisitable.genruntimeconfig.cache
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Behavioral\Visitor\NullVisitable\obj\Debug\net5.0\refint\NullVisitable.dll

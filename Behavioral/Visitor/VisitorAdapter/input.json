@@ -1,0 +1,28 @@
+{
+  "Name": "Operator",
+  "Value": "And",
+  "Children": [
+    {
+      "Name": "Operator",
+      "Value": "Greater",
+      "Children": [
+        {
+          "Name": "Age",
+          "Value": "16",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Name": "Operator",
+      "Value": "Equal",
+      "Children": [
+        {
+          "Name": "Citizen",
+          "Value": "True",
+          "Children": []
+        }
+      ]
+    }
+  ]
+}

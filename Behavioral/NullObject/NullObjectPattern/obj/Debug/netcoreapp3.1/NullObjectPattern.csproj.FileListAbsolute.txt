@@ -1,0 +1,13 @@
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Behavioral\NullObject\NullObjectPattern\bin\Debug\netcoreapp3.1\NullObjectPattern.exe
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Behavioral\NullObject\NullObjectPattern\bin\Debug\netcoreapp3.1\NullObjectPattern.deps.json
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Behavioral\NullObject\NullObjectPattern\bin\Debug\netcoreapp3.1\NullObjectPattern.runtimeconfig.json
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Behavioral\NullObject\NullObjectPattern\bin\Debug\netcoreapp3.1\NullObjectPattern.runtimeconfig.dev.json
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Behavioral\NullObject\NullObjectPattern\bin\Debug\netcoreapp3.1\NullObjectPattern.dll
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Behavioral\NullObject\NullObjectPattern\bin\Debug\netcoreapp3.1\NullObjectPattern.pdb
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Behavioral\NullObject\NullObjectPattern\obj\Debug\netcoreapp3.1\NullObjectPattern.AssemblyInfoInputs.cache
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Behavioral\NullObject\NullObjectPattern\obj\Debug\netcoreapp3.1\NullObjectPattern.AssemblyInfo.cs
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Behavioral\NullObject\NullObjectPattern\obj\Debug\netcoreapp3.1\NullObjectPattern.csproj.CoreCompileInputs.cache
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Behavioral\NullObject\NullObjectPattern\obj\Debug\netcoreapp3.1\NullObjectPattern.dll
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Behavioral\NullObject\NullObjectPattern\obj\Debug\netcoreapp3.1\NullObjectPattern.pdb
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Behavioral\NullObject\NullObjectPattern\obj\Debug\netcoreapp3.1\NullObjectPattern.genruntimeconfig.cache
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Behavioral\NullObject\NullObjectPattern\obj\Debug\netcoreapp3.1\NullObjectPattern.csproj.AssemblyReference.cache

@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp2.1</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+        
+        <Compile Include="Builder.fs" />
+        
+        <Compile Include="Decorator.fs" />
+        
+        <Compile Include="Factory.fs" />
+        
+        <Compile Include="Interpreter.fs" />
+        <Compile Include="Program.fs" />
+        <Compile Include="Strategy.fs" />
+        <Compile Include="TemplateMethod.fs" />
+        <Compile Include="ChainOfResponsibility.fs" />
+        <Content Include="slides\overview.md" />
+        <Content Include="slides\summary.md" />
+    </ItemGroup>
+
+</Project>

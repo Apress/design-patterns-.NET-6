@@ -1,0 +1,44 @@
+{
+  "version": 2,
+  "dgSpecHash": "EwL5V6uEYNMBtfD8mSwjd3zpFRkdeE9oFG97EJu4yelaVgNKtrGY/x2klRjmtepavkImrcP/hW0xTkIiOgJKTw==",
+  "success": true,
+  "projectFilePath": "C:\\Dropbox\\Projects\\Demos\\DotNetDesignPatternDemos\\Structural\\Proxy\\DynamicProxyDependencyInjection\\DynamicProxyDependencyInjection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dmitri\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
+    "C:\\Users\\Dmitri\\.nuget\\packages\\autofac.extras.dynamicproxy2\\3.0.5\\autofac.extras.dynamicproxy2.3.0.5.nupkg.sha512",
+    "C:\\Users\\Dmitri\\.nuget\\packages\\castle.core\\3.2.2\\castle.core.3.2.2.nupkg.sha512",
+    "C:\\Users\\Dmitri\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package version outside of dependency constraint: Autofac.Extras.DynamicProxy2 3.0.5 requires Autofac (>= 3.3.1 && < 4.0.0) but version Autofac 6.3.0 was resolved.",
+      "libraryId": "Autofac",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Autofac.Extras.DynamicProxy2 3.0.5' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Autofac.Extras.DynamicProxy2",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Castle.Core 3.2.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Castle.Core",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

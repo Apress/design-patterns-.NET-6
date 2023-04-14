@@ -1,0 +1,16 @@
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Xtras\SOLID\SRP\bin\Debug\net5.0\SRP.exe
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Xtras\SOLID\SRP\bin\Debug\net5.0\SRP.deps.json
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Xtras\SOLID\SRP\bin\Debug\net5.0\SRP.runtimeconfig.json
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Xtras\SOLID\SRP\bin\Debug\net5.0\SRP.runtimeconfig.dev.json
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Xtras\SOLID\SRP\bin\Debug\net5.0\SRP.dll
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Xtras\SOLID\SRP\bin\Debug\net5.0\ref\SRP.dll
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Xtras\SOLID\SRP\bin\Debug\net5.0\SRP.pdb
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Xtras\SOLID\SRP\obj\Debug\net5.0\SRP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Xtras\SOLID\SRP\obj\Debug\net5.0\SRP.AssemblyInfoInputs.cache
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Xtras\SOLID\SRP\obj\Debug\net5.0\SRP.AssemblyInfo.cs
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Xtras\SOLID\SRP\obj\Debug\net5.0\SRP.csproj.CoreCompileInputs.cache
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Xtras\SOLID\SRP\obj\Debug\net5.0\SRP.dll
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Xtras\SOLID\SRP\obj\Debug\net5.0\ref\SRP.dll
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Xtras\SOLID\SRP\obj\Debug\net5.0\SRP.pdb
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Xtras\SOLID\SRP\obj\Debug\net5.0\SRP.genruntimeconfig.cache
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Xtras\SOLID\SRP\obj\Debug\net5.0\SRP.csproj.AssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Xtras\Xtras\NestedReferences\NestedReferencesSourceGen\bin\Release\netstandard2.0\NestedReferencesSourceGen.deps.json
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Xtras\Xtras\NestedReferences\NestedReferencesSourceGen\bin\Release\netstandard2.0\NestedReferencesSourceGen.dll
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Xtras\Xtras\NestedReferences\NestedReferencesSourceGen\bin\Release\netstandard2.0\NestedReferencesSourceGen.pdb
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Xtras\Xtras\NestedReferences\NestedReferencesSourceGen\obj\Release\netstandard2.0\NestedReferencesSourceGen.csprojAssemblyReference.cache
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Xtras\Xtras\NestedReferences\NestedReferencesSourceGen\obj\Release\netstandard2.0\NestedReferencesSourceGen.AssemblyInfoInputs.cache
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Xtras\Xtras\NestedReferences\NestedReferencesSourceGen\obj\Release\netstandard2.0\NestedReferencesSourceGen.AssemblyInfo.cs
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Xtras\Xtras\NestedReferences\NestedReferencesSourceGen\obj\Release\netstandard2.0\NestedReferencesSourceGen.csproj.CoreCompileInputs.cache
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Xtras\Xtras\NestedReferences\NestedReferencesSourceGen\obj\Release\netstandard2.0\NestedReferencesSourceGen.dll
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Xtras\Xtras\NestedReferences\NestedReferencesSourceGen\obj\Release\netstandard2.0\NestedReferencesSourceGen.pdb

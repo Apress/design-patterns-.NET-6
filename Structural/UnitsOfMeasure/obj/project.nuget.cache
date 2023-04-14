@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wkWas3qNOrsOIIHGvTWLhLgeZFND8dygDMS0WPwZA7qrzuLJpoOPTMCrs2JZBalE24ixxwplbvVN+UFJMSgwlQ==",
+  "success": true,
+  "projectFilePath": "C:\\Dropbox\\Projects\\Demos\\DotNetDesignPatternDemos\\Structural\\UnitsOfMeasure\\UnitsOfMeasure.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dmitri\\.nuget\\packages\\fsharp.core\\6.0.1\\fsharp.core.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

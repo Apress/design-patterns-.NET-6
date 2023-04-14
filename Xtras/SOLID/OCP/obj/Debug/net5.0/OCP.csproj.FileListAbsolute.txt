@@ -1,0 +1,16 @@
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Xtras\SOLID\OCP\bin\Debug\net5.0\OCP.exe
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Xtras\SOLID\OCP\bin\Debug\net5.0\OCP.deps.json
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Xtras\SOLID\OCP\bin\Debug\net5.0\OCP.runtimeconfig.json
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Xtras\SOLID\OCP\bin\Debug\net5.0\OCP.runtimeconfig.dev.json
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Xtras\SOLID\OCP\bin\Debug\net5.0\OCP.dll
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Xtras\SOLID\OCP\bin\Debug\net5.0\ref\OCP.dll
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Xtras\SOLID\OCP\bin\Debug\net5.0\OCP.pdb
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Xtras\SOLID\OCP\obj\Debug\net5.0\OCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Xtras\SOLID\OCP\obj\Debug\net5.0\OCP.AssemblyInfoInputs.cache
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Xtras\SOLID\OCP\obj\Debug\net5.0\OCP.AssemblyInfo.cs
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Xtras\SOLID\OCP\obj\Debug\net5.0\OCP.csproj.CoreCompileInputs.cache
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Xtras\SOLID\OCP\obj\Debug\net5.0\OCP.dll
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Xtras\SOLID\OCP\obj\Debug\net5.0\ref\OCP.dll
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Xtras\SOLID\OCP\obj\Debug\net5.0\OCP.pdb
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Xtras\SOLID\OCP\obj\Debug\net5.0\OCP.genruntimeconfig.cache
+C:\Dropbox\Projects\Demos\DotNetDesignPatternDemos\Xtras\SOLID\OCP\obj\Debug\net5.0\OCP.csproj.AssemblyReference.cache

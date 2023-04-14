@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PresentationSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" PresentationCreationUtc="2021-01-14T10:26:18.5237008Z" TotalRecordingTime="174.97948549999998" SettingsModelVersion="0.1">
+  <Slides>
+    <SlideInfo SlideNumber="0" SlideStartTime="0">
+      <SlideType>Normal</SlideType>
+      <ListRenderingMode>OneColumn</ListRenderingMode>
+      <LineAppearing>
+        <LineAppearingInfo LineNumber="0" AppearingTime="0" />
+        <LineAppearingInfo LineNumber="2" AppearingTime="10.6020132" />
+        <LineAppearingInfo LineNumber="4" AppearingTime="20.4485291" />
+        <LineAppearingInfo LineNumber="5" AppearingTime="47.000008199999996" />
+        <LineAppearingInfo LineNumber="6" AppearingTime="70.0565082" />
+        <LineAppearingInfo LineNumber="7" AppearingTime="101.84050099999999" />
+        <LineAppearingInfo LineNumber="8" AppearingTime="128.2164989" />
+        <LineAppearingInfo LineNumber="9" AppearingTime="132.7367601" />
+        <LineAppearingInfo LineNumber="10" AppearingTime="137.5127585" />
+        <LineAppearingInfo LineNumber="12" AppearingTime="154.8720985" />
+      </LineAppearing>
+      <SlideTheme>
+        <BackgroundColor xsi:nil="true" />
+        <Text>
+          <Font xsi:nil="true" />
+          <BlockFontColor R="85" G="85" B="74" A="254" />
+          <Margin xsi:nil="true" />
+          <LayoutSettings xsi:nil="true" />
+        </Text>
+        <List>
+          <Font xsi:nil="true" />
+          <BlockFontColor R="85" G="85" B="74" A="165" />
+          <Margin xsi:nil="true" />
+          <LayoutSettings xsi:nil="true" />
+          <BulletedListSymbolFont xsi:nil="true" />
+          <BulletedListSymbolColor xsi:nil="true" />
+        </List>
+        <SubList>
+          <Font xsi:nil="true" />
+          <BlockFontColor R="85" G="85" B="74" A="148" />
+          <Margin xsi:nil="true" />
+          <LayoutSettings xsi:nil="true" />
+          <BulletedListSymbolFont xsi:nil="true" />
+          <BulletedListSymbolColor xsi:nil="true" />
+        </SubList>
+      </SlideTheme>
+    </SlideInfo>
+  </Slides>
+</PresentationSettings>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8oy6m++xrTZS8EO48JpKf5uRj+vJ6IdHP0pK59wLHolSxY9lVVmTfZKoWnCGBu/MDgdhLNY5X2/Aj9yfu12JrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Dropbox\\Projects\\Demos\\DotNetDesignPatternDemos\\Behavioral\\Visitor\\VisitorAdapter\\VisitorAdapter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dmitri\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
